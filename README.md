@@ -28,6 +28,7 @@
 [<img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass" width="50" />][website]
 [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JS" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TS" width="42" />][website]
+[<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/redux-saga.svg" alt="Redux-saga" width="66" />][website]
 [<img src="https://cdn.svgporn.com/logos/mobx.svg" alt="Mobx" width="42" />][website]
