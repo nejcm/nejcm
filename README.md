@@ -8,14 +8,14 @@
 
 ### About me
 
-- 🎯 Full stack web development
+- 🎯 Full stack web developer
 - ❤️ Open source contributor
 - 🔭 I'm currently working on a CMS using React and Node.js
-- 🌱 I'm currently learning Rxjs, Prisma and Rust
+- 🌱 I'm currently learning Rxjs and Rust
 - 🎓 I'm trying to improve my GraphQL and Typescript skills
-- 👯 I’m looking to collaborate on any Open Source Projects.
+- 👯 I’m looking to collaborate on any Open Source Projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything, I would love to answer.
+- 💬 Ask me about anything, I would love to answer
 - 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
 
 <br />
