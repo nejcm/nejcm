@@ -11,7 +11,7 @@
 - 🎯 Full stack web developer
 - ❤️ Open source contributor
 - 🔭 I'm currently working on a CMS using React and Node.js
-- 🌱 I'm currently learning Rxjs and Rust
+- 🌱 I'm currently learning Rxjs
 - 🎓 I'm trying to improve my GraphQL and Typescript skills
 - 👯 I’m looking to collaborate on any Open Source Projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
