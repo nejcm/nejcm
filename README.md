@@ -11,10 +11,8 @@
 - 🎯 Full stack web developer
 - ❤️ Open source contributor
 - 🔭 I'm currently working on a video streaming platform
-- 🌱 I'm currently learning Rxjs
-- 🎓 I'm trying to improve my GraphQL and Typescript skills
-- 👯 I’m looking to collaborate on any Open Source Projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I'm currently learning Go
+- 🎓 I'm trying to improve my GraphQL skills
 - 💬 Ask me about anything. Would love to answer
 - 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
 
