@@ -11,7 +11,7 @@
 - 🎯 Full stack web developer
 - ❤️ Open source contributor
 - 🔭 I'm currently working on a video streaming platform
-- 🌱 I'm currently learning Go
+- 🌱 I'm currently learning Rust
 - 🎓 I'm trying to improve my GraphQL skills
 - 💬 Ask me about anything. Would love to answer
 - 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
@@ -20,28 +20,18 @@
 
 ### Languages, Tools and Libraries:
 
-[<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="36" />][website]
 [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width="36" />][website]
-[<img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass" width="50" />][website]
 [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JS" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TS" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/redux-saga.svg" alt="Redux-saga" width="66" />][website]
-[<img src="https://cdn.svgporn.com/logos/mobx.svg" alt="Mobx" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="Apollo" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Nodejs" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="66" />][website]
-[<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/gatsby.svg" alt="Gatsby" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" width="140" />][website]
 [<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="42" />][website]
 
 <br />
