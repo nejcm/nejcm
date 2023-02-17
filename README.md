@@ -9,11 +9,11 @@
 ### About me
 
 - 🎯 Full stack web developer
-- ❤️ Open source contributor
-- 🔭 I'm currently working on a video streaming platform
+- 🔭 I'm currently working on a video streaming and crypto platform
 - 🌱 I'm currently learning Rust
 - 🎓 I'm trying to improve my GraphQL skills
-- 💬 Ask me about anything. Would love to answer
+- ❤️ Open source contributor
+- 💬 Ask me anything
 - 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
 
 <br />
