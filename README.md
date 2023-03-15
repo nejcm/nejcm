@@ -13,7 +13,6 @@
 - 🌱 I'm currently learning Rust
 - 🎓 I'm trying to improve my GraphQL skills
 - ❤️ Open source contributor
-- 💬 Ask me anything
 - 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
 
 <br />
