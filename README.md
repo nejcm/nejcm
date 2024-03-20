@@ -11,9 +11,8 @@
 - 🎯 Full stack web developer
 - 🔭 I'm currently working on a video streaming and crypto platform
 - 🌱 I'm currently learning Rust
-- 🎓 I'm trying to improve my GraphQL skills
+- 🎓 I'm trying to improve my web3 skills
 - ❤️ Open source contributor
-- 📫 Reach me at: **[nmursi2@gmail.com](nmursi2@gmail.com)**
 
 <br />
 
