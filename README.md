@@ -38,8 +38,6 @@
 
 <br />
 
-![Nejc's github stats](https://github-readme-stats.vercel.app/api?username=nejcm&show_icons=true&hide_border=true&title_color=e0e0e0&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 [email]: nmursi2@gmail.com
 [website]: https://nejcmursic.com/
 [github]: https://github.com/nejcm/
