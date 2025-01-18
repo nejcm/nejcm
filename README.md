@@ -26,8 +26,6 @@
 [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Nodejs" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="42" />][website]
-[<img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="66" />][website]
-[<img src="https://cdn.svgporn.com/logos/gatsby.svg" alt="Gatsby" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="MongoDB" width="24" />][website]
 [<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="42" />][website]
