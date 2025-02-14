@@ -21,8 +21,7 @@
 
 <br />
 
+<!-- Variables -->
 [email]: nmursi2@gmail.com
 [github]: https://github.com/nejcm/
 [linkedin]: https://linkedin.com/in/nejcm/
-
-<!-- Icons -->
