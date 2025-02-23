@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Nejc
 
-💻 Full-Stack Developer | 🚀 Passionate about Web Development, Open Source, and AI | Making computers do things
+> Making computers do things
+
+💻 Full-Stack Developer | 🚀 Passionate about Web Development, Open Source, and AI
 
 [![Github Badge](https://img.shields.io/badge/-nejcm-black?style=flat&logo=Github&logoColor=white&link=https://github.com/nejcm/)][github]
 [![Linkedin Badge](https://img.shields.io/badge/-nejcm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nejcm/)][linkedin]
