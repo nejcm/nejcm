@@ -13,8 +13,7 @@
 
 - 🎯 Full-stack web developer
 - 🔭 I'm currently working on a video streaming and crypto platform
-- 🌱 I'm currently learning Elixir and Zig
-- 🎓 I'm trying to improve my web3 skills
+- 🌱 I'm currently learning and improving in using AI tools, agents, ...
 - ❤️ Open source contributor
 
 <br />
@@ -24,6 +23,5 @@
 <br />
 
 <!-- Variables -->
-[email]: nmursi2@gmail.com
 [github]: https://github.com/nejcm/
 [linkedin]: https://linkedin.com/in/nejcm/
