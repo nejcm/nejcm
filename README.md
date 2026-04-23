@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🎯 Full-stack web developer
+- 🎯 Full-stack developer
 - 🔭 I'm currently working on a video streaming and crypto platform
 - 🌱 I'm currently learning and improving in using AI tools, agents, ...
 - ❤️ Open source contributor
