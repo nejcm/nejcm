@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nejc
 
-> Making computers do things
+> Making computers do things and babysitting agents.
 
 💻 Full-Stack Developer | 🚀 Passionate about Web Development, Open Source, and AI
 
