@@ -10,6 +10,6 @@
 
 ### About
 
-- 🔭 Building video streaming and crypto products
+- 🔭 Building video streaming and AI tools
 - 🌱 Exploring AI tools and agents
 - ❤️ Open-source contributor
