@@ -4,7 +4,7 @@
 
 💻 Full-stack developer building web products, open-source software, and AI-powered tools.
 
-[![Website](https://img.shields.io/badge/-nejcm-black?style=flat&logo=Github&logoColor=white)](https://nejcm.dev/)
+[![Website](https://img.shields.io/badge/-website-white?style=flat)](https://nejcm.dev/)
 [![GitHub](https://img.shields.io/badge/-nejcm-black?style=flat&logo=Github&logoColor=white)](https://github.com/nejcm/)
 [![LinkedIn](https://img.shields.io/badge/-nejcm-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nejcm/)
 [![Email](https://img.shields.io/badge/-nmursi2-red?style=flat&logo=Gmail&logoColor=white)](mailto:nmursi2@gmail.com)
